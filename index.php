@@ -154,7 +154,7 @@ END;
 if(isset($_GET['nickname']) && isset($_GET['region']) && $_GET['nickname'] != "" && $_GET['region'] != "" ) {
 	if($_GET['nickname'] == $_SESSION['nickname'])
 	{
-		header('Location: /riotapi');
+		header('Location: /');
 		session_destroy();
 		die();
 	}

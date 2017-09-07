@@ -1,4 +1,4 @@
-# Riot-API-2k16
+# Riot-API-2k16 - Not scripts not working after Riot's API kinda changed. ~Sorry 
 The repository constains source code
 ====================================
 
